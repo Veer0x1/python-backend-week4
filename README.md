@@ -53,7 +53,7 @@ In this stage, you will need to implement a rating system all by yourself.
 In the authentication app, fill in the views for login, logout and user registration. You will also need to create basic frontend templates for these views. Refer to the existing templates if you have any issue.
 
 ## Deadline
-You'll have a week to complete this task. Hence, the deadline of this task is 18th July, 2022.
+You'll have a week to complete this task. Hence, the deadline of this task is 23rd July, 2022.
 
 ## Submission
 * Follow the instructions to setup and run this project.
